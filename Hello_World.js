@@ -2,7 +2,7 @@
 <head>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
 </head>
-<body.
+<body>
 <div ng-app>
 {{Hello World}}
 </div>
